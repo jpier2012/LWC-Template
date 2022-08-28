@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jpier2012.lwc-l7dee6df-fork-l7defjb6",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve i1eK0OolEin5UjaAIN4m --open"
+  }
+}
